@@ -1,6 +1,7 @@
 class User 
 
-  def initiat
+  def initialize
+end
 
 
 end 
