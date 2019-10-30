@@ -11,7 +11,7 @@ class Student < User
   end
   
   def knowledge
-    return knowledge
+    return string
   end 
 
 end
